@@ -1,5 +1,4 @@
 # Encapsulation
-Example of Encapsulation
 The process of binding the states and behaviour of an object together is called encapsulation
 In JAVA we can achieve encapsulation with the help of class because class has both state and behaviour of an object.
 * ADVANTAES: With the help of encapsulation we can achieve data hiding.
